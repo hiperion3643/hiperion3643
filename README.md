@@ -1,14 +1,14 @@
 # 👨‍🔬 Luis Enrique Muñoz Juárez
 
-**`Físico | Analista de Datos (Python/R) | Especialista en IA & Medición de Impacto`**
+**`Físico | Analista de Datos (Python/R) | Consultor en IA & Medición de Impacto`**
 
 ---
 
 ### 🧪 Sobre mí
 
-Soy Licenciado en Física con un enfoque apasionado por la transformación de datos en conocimiento cuantificable. Mi experiencia en análisis de datos y desarrollo de software me ha permitido aplicar habilidades analíticas y técnicas para resolver problemas complejos en diferentes campos.
+Soy Licenciado en Física con un enfoque por la transformación de datos en conocimiento cuantificable. Mi experiencia en análisis de datos y desarrollo de software me ha permitido aplicar habilidades analíticas y técnicas para resolver problemas complejos en diferentes campos.
 
-Actualmente, desarrollo mi carrera en dos frentes clave:
+Actualmente, desarrollo mi carrera en dos entornos:
 *   📊 **Universidad de la Salud de Puebla**: Analizando datos para mejorar la educación y gestión sanitaria.
 *   🤖 **OSC CROP**: Como **Analista de Datos, Inteligencia Artificial y Medición de Impacto Social**, donde además de medir el cambio, diseño **automatizaciones y agentes de IA** para potenciar el impacto social.
 
@@ -19,7 +19,7 @@ Mi caja de herramientas es multidisciplinar: desde la elegancia tipográfica de 
 ### 🛰️ Stack Tecnológico & Lenguajes
 
 ```python
-# Mi entorno de trabajo en una función lambda
+# Mi entorno de trabajo 
 mi_stack = {
     "Lenguajes": ["Python", "R", "SQL", "LaTeX (Markdown)"],
     "Ciencia de Datos": ["Pandas", "NumPy", "Scikit-learn", "Tidyverse", "ggplot2"],

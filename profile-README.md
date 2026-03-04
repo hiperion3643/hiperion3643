@@ -1,72 +1,108 @@
+<<<<<<< HEAD
 ### 2. Estilo Visual (Cambio de fondo y colores)
+=======
+# ⚛️ Luis Enrique Muñoz Juárez
 
-Para cambiar el fondo y los colores de tu perfil, necesitas usar un archivo de personalización especial. Crea un archivo llamado `profile-README.md` en la raíz de tu repositorio especial (el que tiene tu nombre).
+<div align="center">
 
-Aquí tienes un diseño inspirado en terminales de datos y física de partículas:
+### 🔬 Físico | 📊 Analista de Datos | 💻 Desarrollador
 
-```css
-/* Fondo y tema general - Quantum Terminal */
-body {
-  background: linear-gradient(145deg, #0a0f1e 0%, #0e1a2b 100%);
-  color: #c0caf5; /* Texto suave para leer */
-  font-family: 'Fira Code', 'Cascadia Code', 'Courier New', monospace;
-}
+*Explorando el universo de los datos con Python, R, IA y SQL*
 
-/* Encabezados con estilo "partícula" */
-h1, h2, h3 {
-  color: #7dcfff; /* Azul claro cuántico */
-  border-bottom: 1px solid #ff9e64; /* Naranja neón de "reacción" */
-  display: inline-block;
-  padding-bottom: 5px;
-}
+---
 
-/* Código y datos (como si fueran electrones) */
-code, pre {
-  background-color: #1a2639; /* Fondo de terminal más oscuro */
-  color: #9ece6a; /* Verde datos */
-  border-left: 3px solid #ff9e64; /* Línea naranja de advertencia científica */
-  border-radius: 0px; /* Bordes rectos como pantallas CRT */
-  padding: 10px;
-  font-size: 14px;
-}
+</div>
+>>>>>>> refs/remotes/origin/main
 
-/* Links (tu LinkedIn y email) */
-a {
-  color: #89ddff; /* Azul claro */
-  text-decoration: none;
-  transition: color 0.2s ease-in-out;
-}
+## 🌌 Sobre Mí
 
-a:hover {
-  color: #ff9e64; /* Se encienden en naranja al pasar el mouse */
-  text-decoration: underline wavy #ff9e64; /* Subrayado de "oscilación" */
-}
+Soy un profesional con formación en **Física** y especialización en **Análisis de Datos**. Me apasiona transformar datos complejos en insights valiosos usando herramientas modernas y metodologías científicas rigurosas.
 
-/* Bloques de tecnología */
-blockquote {
-  background: #0f1a2b;
-  border-left: 4px solid #7aa2f7; /* Azul de física */
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-}
+> **"La ciencia es el arte de crear ilusiones útiles que el sabio sabe reconocer como tales."**
 
-/* Listas con viñetas cuadradas "byte" */
-ul {
-  list-style-type: none;
-  padding-left: 20px;
-}
+---
 
-ul li::before {
-  content: "▹"; /* Símbolo de terminal */
-  color: #ff9e64; /* Naranja */
-  font-weight: bold;
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
-}
+## 🛠️ Stack Técnico
 
-/* La línea de "Sobre mí" con un efecto de barrido */
-p {
-  line-height: 1.6;
-  text-shadow: 0 0 5px rgba(125, 207, 255, 0.1);
-}
+<div align="center">
+
+| **Categoría** | **Tecnologías** |
+|:---:|:---|
+| 🐍 **Lenguajes** | Python, R, SQL, LaTeX |
+| 📚 **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow |
+| 📊 **Visualización** | Matplotlib, Seaborn, Plotly, ggplot2 |
+| 🗄️ **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
+| 🤖 **Machine Learning** | Regresión, Clasificación, NLP, Clustering |
+| 🔧 **Herramientas** | Jupyter, Git, Docker, VSCode |
+
+</div>
+
+---
+
+## 📡 Habilidades Destacadas
+
+▹ **Análisis Estadístico** - Pruebas de hipótesis, distribuciones, análisis inferencial  
+▹ **Machine Learning** - Modelos predictivos y clasificación  
+▹ **Visualización de Datos** - Gráficos interactivos y dashboards  
+▹ **Programación Científica** - Cálculos numéricos y simulaciones  
+▹ **Base de Datos** - Diseño, queries optimizadas y ETL  
+▹ **LaTeX & Documentación** - Reportes técnicos y publicaciones  
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📈 [Análisis de Datos Económicos](#)
+Análisis predictivo de series temporales económicas utilizando ARIMA y machine learning avanzado.
+
+### 🧪 [Simulaciones Físicas](#)
+Modelos computacionales de sistemas físicos complejos implementados en Python con NumPy y SciPy.
+
+### 🤖 [NLP en Español](#)
+Herramientas de procesamiento de lenguaje natural optimizadas para textos en español.
+
+---
+
+## 📚 Estadísticas de Actividad
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════╗
+║  Bienvenido al Quantum Terminal 🔬    ║
+║                                       ║
+║  Repositorios: En construcción...     ║
+║  Contribuciones: Activas 🟢           ║
+║  Status: Abierto a colaboraciones ✨  ║
+╚═══════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🔗 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisenrique)
+[![Email](https://img.shields.io/badge/Email-FF9E64?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiperion3643)
+
+</div>
+
+---
+
+## 📖 Última Actualización
+
+```
+▹ Marzo 2026 | Perfil en evolución 🚀
+▹ Abierto a nuevos desafíos y colaboraciones
+▹ Interesado en: IA, Data Science, Investigación
+```
+
+<div align="center">
+
+⭐ *Si te gusta algo que ves, no dudes en seguir* ⭐
+
+</div>
