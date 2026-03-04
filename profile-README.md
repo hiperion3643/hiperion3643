@@ -44,30 +44,19 @@ Soy un profesional en formación con base en **Física** y estoy aprendiendo **A
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📈 [Análisis de Datos Económicos](#)
-Análisis predictivo de series temporales económicas utilizando ARIMA y machine learning avanzado.
-
-### 🧪 [Simulaciones Físicas](#)
-Modelos computacionales de sistemas físicos complejos implementados en Python con NumPy y SciPy.
-
-### 🤖 [NLP en Español](#)
-Herramientas de procesamiento de lenguaje natural optimizadas para textos en español.
-
 ---
 
-## 📚 Estadísticas de Actividad
+## Estadísticas de Actividad
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════╗
-║  Bienvenido al Quantum Terminal 🔬    ║
+║  Sistema de Datos Cuántico            ║
 ║                                       ║
 ║  Repositorios: En construcción...     ║
-║  Contribuciones: Activas 🟢           ║
-║  Status: Abierto a colaboraciones ✨  ║
+║  Contribuciones: Activas              ║
+║  Status: Abierto a colaboraciones     ║
 ╚═══════════════════════════════════════╝
 ```
 
@@ -75,7 +64,7 @@ Herramientas de procesamiento de lenguaje natural optimizadas para textos en esp
 
 ---
 
-## 🔗 Conecta Conmigo
+## Conecta Conmigo
 
 <div align="center">
 
@@ -87,16 +76,16 @@ Herramientas de procesamiento de lenguaje natural optimizadas para textos en esp
 
 ---
 
-## 📖 Última Actualización
+## Última Actualización
 
 ```
-▹ Marzo 2026 | Perfil en evolución 🚀
+▹ Marzo 2026 | Perfil en evolución
 ▹ Abierto a nuevos desafíos y colaboraciones
 ▹ Interesado en: IA, Data Science, Investigación
 ```
 
 <div align="center">
 
-⭐ *Si te gusta algo que ves, no dudes en seguir* ⭐
+*Si te gusta algo que ves, no dudes en seguir*
 
 </div>
