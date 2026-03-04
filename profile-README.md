@@ -1,6 +1,3 @@
-
----
-
 ### 2. Estilo Visual (Cambio de fondo y colores)
 
 Para cambiar el fondo y los colores de tu perfil, necesitas usar un archivo de personalización especial. Crea un archivo llamado `profile-README.md` en la raíz de tu repositorio especial (el que tiene tu nombre).
