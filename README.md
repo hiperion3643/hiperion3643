@@ -61,28 +61,13 @@ Soy Licenciado en Física con interés en transformar datos en información úti
 
 ---
 
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> &nbsp;Métricas de Rendimiento
-
-<div align="center">
-  <!-- Gráfico de Contribuciones estilo "Quantum" -->
-  <img width="800" height="200" src="https://ghchart.rshah.org/409ba5/TU_USUARIO" alt="GitHub Contribution Graph" />
-  
-  <br><br>
-  
-  <!-- Tarjetas de Estadísticas -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=7dcfff&icon_color=ff9e64&text_color=c0caf5&bg_color=0a0f1e&border_color=1a2639" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=7dcfff&text_color=ff9e64&bg_color=0a0f1e&border_color=1a2639" alt="Top Langs" />
-</div>
-
----
-
 ### <img src="https://media.giphy.com/media/L1R1TVIq8OOxKjI9pY/giphy.gif" width="30"> &nbsp;Conexión Segura
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="www.linkedin.com/in/luis-enrique-muñoz-juárez-512555370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu_email@ejemplo.com">
+  <a href="hiperion3643@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e" alt="Email" />
   </a>
 </div>
