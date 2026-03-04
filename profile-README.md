@@ -1,47 +1,41 @@
-<<<<<<< HEAD
-### 2. Estilo Visual (Cambio de fondo y colores)
-=======
-# ⚛️ Luis Enrique Muñoz Juárez
+# Luis Enrique Muñoz Juárez
 
 <div align="center">
 
-### 🔬 Físico | 📊 Analista de Datos | 💻 Desarrollador
+### Físico | Analista de Datos | Desarrollador
 
 *Explorando el universo de los datos con Python, R, IA y SQL*
 
 ---
 
 </div>
->>>>>>> refs/remotes/origin/main
 
-## 🌌 Sobre Mí
+## Sobre Mí
 
-Soy un profesional con formación en **Física** y especialización en **Análisis de Datos**. Me apasiona transformar datos complejos en insights valiosos usando herramientas modernas y metodologías científicas rigurosas.
-
-> **"La ciencia es el arte de crear ilusiones útiles que el sabio sabe reconocer como tales."**
+Soy un profesional en formación con base en **Física** y estoy aprendiendo **Análisis de Datos**. Me interesa transformar datos en información útil usando herramientas modernas y metodologías científicas.
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 <div align="center">
 
 | **Categoría** | **Tecnologías** |
 |:---:|:---|
-| 🐍 **Lenguajes** | Python, R, SQL, LaTeX |
-| 📚 **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow |
-| 📊 **Visualización** | Matplotlib, Seaborn, Plotly, ggplot2 |
-| 🗄️ **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
-| 🤖 **Machine Learning** | Regresión, Clasificación, NLP, Clustering |
-| 🔧 **Herramientas** | Jupyter, Git, Docker, VSCode |
+| **Lenguajes** | Python, R, SQL, LaTeX |
+| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow |
+| **Visualización** | Matplotlib, Seaborn, Plotly, ggplot2 |
+| **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
+| **Control de Versiones** | Git, GitHub |
+| **Herramientas** | Jupyter, Docker, VSCode |
 
 </div>
 
 ---
 
-## 📡 Habilidades Destacadas
+## Habilidades en Desarrollo
 
-▹ **Análisis Estadístico** - Pruebas de hipótesis, distribuciones, análisis inferencial  
+▹ **Análisis Estadístico** - Aprendiendo pruebas de hipótesis, distribuciones, análisis inferencial  
 ▹ **Machine Learning** - Modelos predictivos y clasificación  
 ▹ **Visualización de Datos** - Gráficos interactivos y dashboards  
 ▹ **Programación Científica** - Cálculos numéricos y simulaciones  
