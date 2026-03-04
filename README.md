@@ -19,7 +19,7 @@ Mi caja de herramientas es multidisciplinar: desde la elegancia tipográfica de 
 ### 🛰️ Stack Tecnológico & Lenguajes
 
 ```python
-# Mi entorno de trabajo en una función lambda
+# Mi entorno de trabajo 
 mi_stack = {
     "Lenguajes": ["Python", "R", "SQL", "LaTeX (Markdown)"],
     "Ciencia de Datos": ["Pandas", "NumPy", "Scikit-learn", "Tidyverse", "ggplot2"],
